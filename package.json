@@ -1,7 +1,7 @@
 {
   "name": "update-struct",
   "main": "index.js",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Update key/value pairs in an observ-struct",
   "license": "MIT",
   "repository": "bendrucker/update-struct",
