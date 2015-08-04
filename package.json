@@ -1,0 +1,35 @@
+{
+  "name": "update-struct",
+  "main": "index.js",
+  "version": "0.0.0",
+  "description": "Update key/value pairs in an observ-struct",
+  "license": "MIT",
+  "repository": "bendrucker/update-struct",
+  "author": {
+    "email": "bvdrucker@gmail.com",
+    "name": "Ben Drucker",
+    "url": "bendrucker.me"
+  },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "keywords": [
+    "observ",
+    "observ-struct",
+    "struct",
+    "update"
+  ],
+  "devDependencies": {
+    "observ": "~0.2.0",
+    "observ-struct": "~6.0.0",
+    "standard": "^4.0.0",
+    "tape": "^4.0.0"
+  },
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "ap": "~0.2.0",
+    "for-own": "~0.1.3"
+  }
+}
