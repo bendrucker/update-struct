@@ -30,6 +30,8 @@
   ],
   "dependencies": {
     "ap": "~0.2.0",
+    "assert-observ": "~1.0.0",
+    "assert-ok": "~1.0.0",
     "for-own": "~0.1.3"
   }
 }
